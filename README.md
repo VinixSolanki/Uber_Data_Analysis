@@ -1,5 +1,4 @@
-# Uber_Data_Analysis
-# Uber Technologies, Inc.  
+# Uber_Data_Analysis  
 
 Uber Technologies, Inc., commonly referred to as Uber, is a leading multinational transportation company. This repository contains insights and analyses related to Uber's operations and user habits.  
 
